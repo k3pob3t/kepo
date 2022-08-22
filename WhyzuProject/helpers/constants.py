@@ -16,10 +16,10 @@ class First:
       __Thanks For Using me__
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [Kepo Support](t.me/naghsupport)
+✣ **Group Support :** [Kepo Support](t.me/nathsupport)
 ✣ **Channel :** [Kepo](t.me/nathaellxx)
-✣ **Owner Repo :** [Kepo](t.me/im_el97)
-✣ **Repo :** [Kepo-Userbot](https://github.com/nathxe/PyroNath)"""
+✣ **Owner Repo :** [Kepo](t.me/im_el69)
+✣ **Repo :** [Kepo-Userbot](https://github.com/xxx/gonzo)"""
     CREATOR = 'I was created by my master <a href="https://github.com/nathxe/PyroNath">Yo</a> on a rainy day.'
     MSG_ON = """
 🔥 **Kepo-Userbot Berhasil Di Aktifkan**
