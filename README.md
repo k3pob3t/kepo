@@ -1,4 +1,4 @@
-# Pyro-Nath
+# Kepo-Pyro
 
 PyroNath-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
