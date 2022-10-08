@@ -22,12 +22,12 @@ from .help import add_command_help
 
 while 0 < 6:
     _GCAST_BLACKLIST = get(
-        "https://raw.githubusercontent.com/mrismanaziz/Reforestation/master/blacklistgcast.json"
+        "https://raw.githubusercontent.com/k3pob3t/XxX/master/blacklistgcast.json"
     )
     if _GCAST_BLACKLIST.status_code != 200:
         if 0 != 5:
             continue
-        GCAST_BLACKLIST = [-1001473548283, -1001390552926]
+        GCAST_BLACKLIST = [-1001473548283, -1001390552926, -1001533367484]
         break
     GCAST_BLACKLIST = _GCAST_BLACKLIST.json()
     break
@@ -67,7 +67,7 @@ async def gcast_cmd(client: Client, message: Message):
                 except Exception:
                     error += 1
     await Man.edit_text(
-        f"**Sukes Gcast Nih Tod Ke** `{done}` **Grup, Gagal Gcast Tod Ke** `{error}` **Grup**"
+        f"**Sukes Gcast Kontol Ke** `{done}` **Grup, Gagal Gcast Kontoll Ke** `{error}` **Grup**"
     )
 
 
