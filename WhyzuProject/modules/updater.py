@@ -1,17 +1,3 @@
-#
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
-#
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
-#
-# All rights reserved.
-#
-# Ported by @mrismanaziz
-# FROM PyroNath-Userbot < https://github.com/nathxe/PyroNath-Userbot/ >
-# t.me/Lunatic0de & t.me/SharingUserbot
-#
-
 import asyncio
 import os
 import socket
